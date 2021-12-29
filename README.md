@@ -1,1 +1,1 @@
-# TebakGambar
+# TebakGambar Sebuah aplikasi sederhana yang dapat menebak gambar yang dibuat oleh user menggunakan AI. Pada project kali ini, dataset dibuat melalui aplikasi ini secara langsung dan Aplikasi ini mampu membedakan gambar lingkaran, kotak, dan segitiga secara real-time.
